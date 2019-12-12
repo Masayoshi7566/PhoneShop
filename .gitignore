@@ -35,4 +35,7 @@ xcuserdata
 Carthage/Checkouts
 Carthage/Build
 
+#Framework
+RealmSwift.framework/
+
 .DS_Store
